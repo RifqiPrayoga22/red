@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Laporan OOP Dart</title>
+
+<style>
+body{
+    font-family: Arial, sans-serif;
+    background-color:#e6f2ff;
+    text-align:center;
+}
+
+.container{
+    width:80%;
+    margin:auto;
+    background:white;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0px 0px 10px rgba(0,0,0,0.2);
+}
+
+h1{
+    color:#2c6cb0;
+}
+
+.info{
+    font-size:18px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Laporan OOP Dart</h1>
+
+<p><b>Nama :</b> Rifqi Prayoga</p>
+<p><b>NIM :</b> 251410005</p>
+<p><b>Kelas :</b> SI2A</p>
+
+<h2>Kelas Hewan dengan atribut nama dan metode bersuara</h2>
+
+<iframe 
+width="100%" 
+height="500"
+src="https://dartpad.dev/embed-inline.html?id=dd2fc00a760a2959d93ec2ae60f2201e">
+</iframe>
+
+</div>
+
+</body>
+</html>
